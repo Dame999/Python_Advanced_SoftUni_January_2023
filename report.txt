@@ -1,0 +1,15 @@
+.html
+- - - html_file.html
+.js
+- - - test_js.js
+.py
+- - - dictionary_traversal.py
+- - - even_lines.py
+- - - file_manipulating.py
+- - - line_numbers.py
+.txt
+- - - file.txt
+- - - line_text.txt
+- - - output.txt
+- - - report.txt
+- - - text.txt
